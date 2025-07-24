@@ -6,7 +6,7 @@ const pharmacistSignatures = {
     pharmacist4: 'Aysha Hoque.png',
     pharmacist5: 'Bill Carcary.png',
     pharmacist6: 'Victoria Osili.png',
-    pharmacist7: 'charlotte stranks.png',
+    pharmacist7: 'katrina martin.png',
     pharmacist8: 'Chun Ting Lam.png',
     pharmacist9: 'Cisca Van der Lith.png',
     pharmacist10: 'Claire Whitehead.png',
