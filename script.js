@@ -355,6 +355,14 @@ function generateCertificates() {
             certificateHTML = certificateHTML.replace('class="date2', 'class="date2-tto-dispensing-nurses');
             certificateHTML = certificateHTML.replace('class="signature1', 'class="signature1-tto-dispensing-nurses');
         }
+
+        if (certificateTemplate === 'certificate39') {
+            certificateHTML = certificateHTML.replace('class="name', 'class="name-rapid-tranquillisation');
+            certificateHTML = certificateHTML.replace('class="date1', 'class="date1-rapid-tranquillisation');
+            certificateHTML = certificateHTML.replace('class="date2', 'class="date2-rapid-tranquillisation');
+            certificateHTML = certificateHTML.replace('class="signature1', 'class="signature1-rapid-tranquillisation');
+        }
+
         
         
 
