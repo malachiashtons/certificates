@@ -49,7 +49,7 @@ const pharmacistSignatures = {
     pharmacist46: 'Shima Jadiv.png',
     pharmacist47: 'Shirley Bickers.png',
     pharmacist48: 'Tina Zaki.png',
-    pharmacist49: 'Tomasz Wojcik.png',
+    pharmacist49: 'queti riballo.png',
     pharmacist50: 'Vikki Hartland.png',
     pharmacist51: 'Yogesh Patel.png',
     pharmacist52: 'Zara Khan.png',
